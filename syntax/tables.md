@@ -1,6 +1,5 @@
 # Tableaux
 
-
 Les tableaux ne font pas partie du coeur de la spec Markdown, mais ils font partie de GFM (GitHub Flavored Markdown) et Markdown Here les supporte.
 
 Voici un exemple de tableau avec le résultat dessous :
